@@ -1,0 +1,8 @@
+session3.3.4
+4. Valid and Invalid Variable Names
+Variable	Status	       Correct Name
+1stPlayer	❌ Invalid	firstPlayer
+player_age	✅ Valid	player_age
+$score	        ❌ Invalid	score
+total-marks	❌ Invalid	totalMarks
+userName	✅ Valid	userName
