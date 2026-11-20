@@ -1,0 +1,44 @@
+overview of it session 1
+
+1. Name 5 IT job roles and write one line about what each role does.
+
+Web Developer – Develops and maintains websites and web applications.
+Software Developer – Designs, develops, and maintains software applications.
+Data Analyst – Analyzes data to find useful information and support business decisions.
+UI/UX Designer – Designs the look, layout, and user experience of digital products.
+Software Tester – Tests software to find bugs and ensure it works correctly.
+
+2. List 3 product companies and 3 service companies with one example of work each does.
+
+Product Companies:
+
+Microsoft – Develops products like Windows and Microsoft Office.
+Google – Develops products like Google Search and Google Maps.
+Adobe – Develops software products like Photoshop and Illustrator.
+
+Service Companies:
+
+TCS – Provides IT consulting and software development services to clients.
+Infosys – Provides technology consulting and digital transformation services.
+Wipro – Provides IT services and business solutions to companies.
+
+3. Write the full forms and one-line use of: GitHub, Slack, Jira, IDE, API.
+
+GitHub – GitHub – A platform used to store, manage, and collaborate on code.
+Slack – Slack – A communication platform used by teams for messaging and collaboration.
+Jira – Jira – A project management tool used to track tasks, bugs, and software development work.
+IDE – Integrated Development Environment – Software that provides tools for writing, running, and debugging code.
+API – Application Programming Interface – Allows different software applications to communicate with each other.
+
+4. Name any 5 programming languages and mention one popular use case for each.
+
+JavaScript – Used for interactive websites and web applications.
+Python – Used for data science, AI, and machine learning.
+Java – Used for enterprise software and Android applications.
+C++ – Used for game development and system programming.
+PHP – Used for server-side web development.
+
+5. What is the difference between a developer and a tester?
+
+A developer creates and maintains software by writing and modifying code.
+A tester checks the software to find bugs and make sure it works as expected.

@@ -1,0 +1,35 @@
+overview of it session 5 incomplete
+
+1. Write the Git command for each:
+
+Initialize a repository: git init
+Stage all files: git add .
+Commit with a message: git commit -m "Initial commit"
+Push to remote: git push origin main
+Pull latest changes: git pull origin main
+
+2. What is the difference between git fetch and git pull?
+
+git fetch downloads the latest changes from the remote repository but does not merge them into your current branch.
+git pull downloads the latest changes and automatically merges them into your current branch.
+
+
+
+3.ans
+https://github.com/nafisa-coder/assignment
+
+
+4. What is the difference between a Fork and a Pull Request?
+
+A Fork creates a personal copy of someone else's GitHub repository under your account.
+A Pull Request is a request to merge your changes into the original repository.
+
+5. Create a new branch named feature-test, make one commit on it, and merge it back to the main branch.
+
+git checkout -b feature-test
+git add .
+git commit -m "Added feature test"
+git checkout main
+git merge feature-test
+
+These commands create the feature-test branch, make a commit, switch back to main, and merge the branch into main.
