@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+struct Bio {
+    char description[100];
+    int age;
+};
+
+struct InstaProfile {
+    char username[50];
+    int followers;
+    struct Bio bio;
+};
+
+int main() {
+
+    struct InstaProfile user = {
+        "nafisa",
+        2500,
+        {"Lifestyle and beauty lover", 19}
+    };
+
+    printf("Instagram Profile Details:\n");
+
+    printf("Username: %s\n", user.username);
+    printf("Followers: %d\n", user.followers);
+    printf("Description: %s\n", user.bio.description);
+    printf("Age: %d\n", user.bio.age);
+
+    return 0;
+}
